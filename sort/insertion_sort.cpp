@@ -9,13 +9,13 @@ int main()
     size = sizeof(arr) / sizeof(arr[0]);
     for (int addon = 1; addon < size; addon++)
     {
-        for (poi = 0; arr[addon] > arr[poi]; poi++)
-            ;
+        for (poi = 0; arr[addon] > arr[poi]; poi++);
         safe = arr[addon];
         for (shift = addon - 1; shift >= poi; shift--)
         {
             arr[shift + 1] = arr[shift];
         }
+
         arr[poi] = safe;
     }
 
