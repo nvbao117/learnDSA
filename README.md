@@ -88,3 +88,32 @@
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
 
   </div>
+  <details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
+<details>
+  <summary>Click to see a random joke</summary>
+  <div align="center">
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+  </div>
+</details>
+### ✅ Merged PRs
+<!--Start Count Merged PRs-->
+  <span><img src="https://img.shields.io/badge/Total_Merged_PRs-34-1877F2?style=for-the-badge"></span>
+<!--Finish Count Merged PRs-->
+
+<!--Start Merged PRs-->
+1. 🥳 Merged PR [379](https://github.com/pymc-labs/CausalPy/pull/379) - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy)
+<!--Finish Merged PRs-->
+### <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2944](https://github.com/actualbudget/actual/issues/2944#issuecomment-2197605111) in [actualbudget/actual](https://github.com/actualbudget/actual)
+<!--END_SECTION:activity-->
